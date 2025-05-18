@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Netflix Clone Landing</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div class="hero">
+        <div class="overlay"></div>
+        <header>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Netflix_2015_logo.svg" alt="Netflix Logo"
+                class="netflix-logo">
+
+            <button class="sign-in-btn">Sign In</button>
+        </header>
+
+        <div class="hero-content">
+            <h1>Unlimited films, <br> series and more</h1>
+            <h2>Starts at £5.99. Cancel at any time.</h2>
+            <p>Ready to watch? Enter your email to create or restart your membership.</p>
+
+            <form class="email-form" onsubmit="goToPlans(event)">
+                <input type="email" placeholder="Email address" required>
+                <button type="submit">Get Started ></button>
+            </form>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
