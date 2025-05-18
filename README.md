@@ -14,6 +14,8 @@ This project is **currently in progress**. I’ve completed the homepage, and I�
 I’ll be uploading new code and updates daily as I progress through each part of the sign-up flow.
 
  📸 Screenshots
+ 
+Here’s a screenshot of the first page I’ve completed so far.
 
 ![Screenshot 2025-05-18 031523](https://github.com/user-attachments/assets/9765b7ff-a74a-464a-8eaf-a0ba7e92cdf9)
 
