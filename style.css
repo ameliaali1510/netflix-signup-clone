@@ -8,7 +8,7 @@ body,
 html {
     font-family: Arial, sans-serif;
     height: 100%;
-    background-color: black;
+    background-color: white;
     color: white;
 }
 
@@ -114,4 +114,25 @@ header {
     font-size: 1.5rem;
     border-radius: 4px;
     cursor: pointer;
+}
+
+/* page 2- choose-plan */
+
+.page2-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 40px;
+  border-bottom: 1px solid #ddd;
+}
+
+.sign-out {
+    color: rgb(64, 60, 60);
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.netflix2-logo {
+    height: 45px;
 }
